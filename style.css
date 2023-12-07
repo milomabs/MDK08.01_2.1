@@ -1,0 +1,282 @@
+* {
+    font-family: Arial;
+}
+
+nav {
+    display: inline-flex;
+    margin-top: 20px;
+}
+
+.nav {
+    float: right;
+    padding-right: 120px;
+}
+
+.nav1 {
+    padding-right: 150px;
+}
+
+.nav1_1 {
+    padding-right: 30px;
+}
+
+.nav2 {
+    padding-right: 60px;
+}
+
+.nav2_1 {
+    padding-right: 30px;
+}
+
+.lang {
+    border-radius: 15px;
+    border-width: 2px;
+    border-color: rgb(220, 220, 220);
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bold1 {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+main {
+    padding-top: 60px;
+}
+
+.zalivka {
+    background-color: rgb(230, 230, 230);
+    width: 1440px;
+}
+
+.temnotext {
+    padding-top: 120px;
+}
+
+.laptop {
+    width: 700px;
+}
+
+.osnova {
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 40px;
+    display: inline-flex;
+}
+
+.small1 {
+    font-size: 12px;
+}
+
+.small {
+    font-size: small;
+    padding-right: 150px;
+    padding-bottom: 10px;
+}
+
+.zalivkatext {
+    padding-top: 60px;
+}
+
+.but {
+    background-color: rgb(40, 40, 40);
+    color: aliceblue;
+    border-radius: 100px;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.Gift {
+    display: inline-flex;
+    padding-top: 30px;
+    padding-left: 120px;
+    padding-right: 120px;
+    width: 1200px;
+}
+
+.gifticon {
+    width: 30px;
+    padding-top: 20px;
+}
+
+.blockgift {
+    width: 200px;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-right: 20px;
+    padding-bottom: 10px;
+}
+
+.zalivkamonitor {
+    display: inline-flex;
+    background-color: rgb(241, 241, 241);
+    color: rgb(161, 161, 161);
+    padding-left: 10px;
+    border-radius: 100px;
+    font-size: 12px;
+    width: 1200px;
+}
+
+.zalivkamonitor p {
+    width: 190px;
+    padding-left: 10px;
+}
+
+.a {
+    padding-right: 300px;
+}
+
+.aa {
+    padding-right: 180px;
+}
+
+.monitor {
+    padding: 0 120px;
+}
+
+.colonki {
+    display: inline-flex;
+    height: 100px;
+    padding-top: 10px;
+    height: 80px;
+}
+
+.name {
+    padding-right: 360px;
+    display: inline-flex;
+}
+
+.lastprice {
+    padding-right: 300px;
+}
+
+.iconcash {
+    width: 40px;
+    height: 40px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.sokrvalyta {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.valyta {
+    font-size: 15px;
+    color: rgb(190, 190, 190);
+    margin-top: -10px;
+}
+
+.zel {
+    color: limegreen;
+}
+
+.kr {
+    color: rgb(200, 57, 57);
+}
+
+hr {
+    width: 1200px;
+    border: 1px solid rgb(200, 200, 200);
+}
+
+.btceth {
+    width: 100px;
+}
+
+.zalivkaservices {
+    background-color: rgb(230, 230, 230);
+    padding-bottom: 50px;
+}
+
+.blok1 {
+    display: inline-flex;
+    background-color: rgb(255, 255, 255);
+    padding: 20px 30px;
+border-radius: 30px;
+margin-bottom: 30px;
+}
+
+.otstyp {
+    padding-top: 60px;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-top: 60px;
+}
+.small2{
+    font-size: 14px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+.podblok1{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.podblok2{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.nonph{
+    width: 400px;
+}
+.textlol{
+    padding-bottom: 20px;
+    color: rgb(154, 154, 154);
+}
+.texta{
+    text-align: center;
+    padding-top: 60px;
+}
+.karta{
+    padding-top: 30px;
+    align-items: center;
+}
+footer{
+    display: inline-flex;
+    background-color: #141223;
+    color: aliceblue;
+    width: 1440px;
+    padding-top: 100px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 100px;
+}
+.media{
+    width: 141px;
+}
+.small3 p{
+    font-size: 16px;
+}
+.s{
+    padding-right: 220px;
+    width: 340px;
+}
+.ss{
+    padding-right: 100px;
+    ;
+}
+.ss p{
+    color: rgb(206, 206, 206)
+}
+.PS{
+    color: rgb(170, 170, 170);
+}
